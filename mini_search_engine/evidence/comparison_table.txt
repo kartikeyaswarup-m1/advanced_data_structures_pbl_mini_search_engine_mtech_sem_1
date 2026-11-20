@@ -1,5 +1,0 @@
-documents | terms | posting_entries | standard_nodes | standard_edges | compressed_nodes | compressed_edges | standard_trie_bytes | compressed_trie_bytes | posting_array_bytes | index_build_us | standard_build_us | compressed_build_us | standard_lookup_us | compressed_lookup_us | single_search_us | and_search_us
-10 | 189 | 281 | 863 | 862 | 265 | 264 | 269911 | 97896 | 16040 | 117.0483 | 267.2581 | 183.3940 | 0.3876 | 0.6716 | 1.0966 | 3.5971
-25 | 344 | 746 | 1493 | 1492 | 474 | 473 | 465987 | 174759 | 30628 | 280.5273 | 480.2021 | 413.6183 | 0.3898 | 0.6765 | 1.0986 | 4.3461
-50 | 344 | 1695 | 1493 | 1492 | 474 | 473 | 465987 | 174759 | 38352 | 544.2642 | 483.0102 | 415.0938 | 0.4257 | 0.6766 | 1.1139 | 5.4010
-100 | 344 | 3580 | 1493 | 1492 | 474 | 473 | 465987 | 174759 | 55688 | 1089.6592 | 489.0883 | 410.1048 | 0.3868 | 0.6723 | 1.1224 | 7.5024

@@ -1,4 +1,0 @@
-ID: 14
-Title: Compressed Trie
-
-A compressed trie combines a chain of single child branches into one labeled edge. Words with a common prefix still share structure. Each complete indexed word keeps an index reference for retrieving its records.

@@ -1,4 +1,0 @@
-ID: 7
-Title: Apple Application
-
-An apple orchard application helps a farmer record daily harvest totals. The app design uses clear buttons for entering quantities. A simple screen lets workers review recent entries before saving their records.

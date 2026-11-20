@@ -1,4 +1,0 @@
-ID: 4
-Title: Search Index
-
-A search index connects each keyword to the records that contain it. An algorithm prepares the index from data so later requests can retrieve matching records without reading the entire collection again.

@@ -1,4 +1,0 @@
-ID: 19
-Title: Security Systems
-
-A security system protects information exchanged across a network. Encryption prevents an unauthorized reader from understanding a message. Developers also review code to reduce mistakes that could expose private records.

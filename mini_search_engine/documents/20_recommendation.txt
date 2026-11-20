@@ -1,4 +1,0 @@
-ID: 20
-Title: Recommendation
-
-A recommendation service suggests items based on previous activity. Learning methods estimate which choices may be useful to a visitor. A search interface can combine those estimates with a ranking of relevant items.

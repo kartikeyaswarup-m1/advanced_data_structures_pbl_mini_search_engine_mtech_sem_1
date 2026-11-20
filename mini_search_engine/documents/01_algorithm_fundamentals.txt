@@ -1,4 +1,0 @@
-ID: 1
-Title: Algorithm Fundamentals
-
-An algorithm gives precise steps for solving a problem. Students organize data before a search, then use complexity analysis to estimate how much work the procedure requires as the collection grows.

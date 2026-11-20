@@ -1,4 +1,0 @@
-ID: 13
-Title: Trie Search
-
-A trie stores words along labeled branches. A search follows the characters of a requested word from the root. Shared prefix characters reuse branches, while an index reference identifies the matching records.

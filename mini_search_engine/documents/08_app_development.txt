@@ -1,4 +1,0 @@
-ID: 8
-Title: App Development
-
-An app requires careful design before implementation begins. Developers divide the application into small components, then review each piece of code. Clear interfaces make the finished product easier to maintain over time.

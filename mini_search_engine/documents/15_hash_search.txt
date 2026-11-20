@@ -1,4 +1,0 @@
-ID: 15
-Title: Hash Search
-
-A hash table maps a key to a bucket for quick lookup. A search index can use this arrangement to locate a record. Collisions require extra checks when different keys reach the same bucket.
