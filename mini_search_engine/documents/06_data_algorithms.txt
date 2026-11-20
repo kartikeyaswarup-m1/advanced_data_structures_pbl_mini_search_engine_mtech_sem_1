@@ -1,0 +1,4 @@
+ID: 6
+Title: Data Algorithms
+
+A sorting algorithm arranges data in a predictable order. A later search can use that order to reduce unnecessary comparisons. Students compare small examples before measuring the procedure on larger collections.

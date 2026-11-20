@@ -1,0 +1,167 @@
+[
+  {
+    "check": "known",
+    "query": "graph",
+    "expected": [
+      2,
+      3,
+      5
+    ],
+    "actual": [
+      2,
+      3,
+      5
+    ],
+    "passed": true
+  },
+  {
+    "check": "unknown",
+    "query": "unicorn",
+    "expected": [],
+    "actual": [],
+    "passed": true
+  },
+  {
+    "check": "prefix exact",
+    "query": "app",
+    "expected": [
+      7,
+      8
+    ],
+    "actual": [
+      7,
+      8
+    ],
+    "passed": true
+  },
+  {
+    "check": "prefix longer",
+    "query": "apple",
+    "expected": [
+      7
+    ],
+    "actual": [
+      7
+    ],
+    "passed": true
+  },
+  {
+    "check": "prefix absent",
+    "query": "appl",
+    "expected": [],
+    "actual": [],
+    "passed": true
+  },
+  {
+    "check": "AND matches",
+    "query": "data algorithm",
+    "expected": [
+      1,
+      4,
+      6
+    ],
+    "actual": [
+      1,
+      4,
+      6
+    ],
+    "passed": true
+  },
+  {
+    "check": "AND no matches",
+    "query": "graph apple",
+    "expected": [],
+    "actual": [],
+    "passed": true
+  },
+  {
+    "check": "AND 3 terms",
+    "query": "graph search path",
+    "expected": [
+      3,
+      5
+    ],
+    "actual": [
+      3,
+      5
+    ],
+    "passed": true
+  },
+  {
+    "check": "repeated keyword",
+    "query": "graph graph search",
+    "expected": [
+      3,
+      5
+    ],
+    "actual": [
+      3,
+      5
+    ],
+    "passed": true
+  },
+  {
+    "check": "only repeated keyword",
+    "query": "graph graph",
+    "expected": [
+      2,
+      3,
+      5
+    ],
+    "actual": [
+      2,
+      3,
+      5
+    ],
+    "passed": true
+  },
+  {
+    "check": "explicit AND",
+    "query": "data AND algorithm",
+    "expected": [
+      1,
+      4,
+      6
+    ],
+    "actual": [
+      1,
+      4,
+      6
+    ],
+    "passed": true
+  },
+  {
+    "check": "case and punctuation",
+    "query": "GRAPH, search!",
+    "expected": [
+      3,
+      5
+    ],
+    "actual": [
+      3,
+      5
+    ],
+    "passed": true
+  },
+  {
+    "check": "punctuation only",
+    "query": "!!!",
+    "expected": [],
+    "actual": [],
+    "passed": true
+  },
+  {
+    "check": "empty input",
+    "query": "  ",
+    "expected": [],
+    "actual": [],
+    "passed": true
+  },
+  {
+    "check": "missing AND term",
+    "query": "graph unicorn",
+    "expected": [],
+    "actual": [],
+    "passed": true
+  }
+]

@@ -1,0 +1,4 @@
+ID: 11
+Title: Database Storage
+
+A database keeps related data in an organized collection. An index provides a direct route to selected records. Reliable storage protects saved information when the program closes or the machine restarts.

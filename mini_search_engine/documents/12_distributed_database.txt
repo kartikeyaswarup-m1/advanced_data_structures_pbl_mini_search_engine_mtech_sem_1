@@ -1,0 +1,4 @@
+ID: 12
+Title: Distributed Database
+
+A distributed database places records across several machines. Each machine communicates through a network to coordinate updates. Replicated storage helps preserve access when one machine becomes temporarily unavailable.

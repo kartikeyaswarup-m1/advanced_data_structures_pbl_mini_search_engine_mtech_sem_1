@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "title": "Algorithm Fundamentals",
+    "text": "An algorithm gives precise steps for solving a problem. Students organize data before a search, then use complexity analysis to estimate how much work the procedure requires as the collection grows."
+  },
+  {
+    "id": 2,
+    "title": "Graph Data",
+    "text": "A graph represents relationships between connected objects. Each vertex stores data, while each edge describes a link in a network. A traversal visits reachable vertices in a controlled order."
+  },
+  {
+    "id": 3,
+    "title": "Graph Algorithms",
+    "text": "A graph algorithm can find a path between two locations. During a search, the procedure tracks visited vertices to avoid unnecessary work. This technique helps a navigation tool explore connected roads."
+  },
+  {
+    "id": 4,
+    "title": "Search Index",
+    "text": "A search index connects each keyword to the records that contain it. An algorithm prepares the index from data so later requests can retrieve matching records without reading the entire collection again."
+  },
+  {
+    "id": 5,
+    "title": "Graph Search",
+    "text": "A graph search explores connected vertices to discover a path. Breadth first traversal examines nearby vertices before moving farther away. A visited collection prevents the procedure from processing the same location repeatedly."
+  },
+  {
+    "id": 6,
+    "title": "Data Algorithms",
+    "text": "A sorting algorithm arranges data in a predictable order. A later search can use that order to reduce unnecessary comparisons. Students compare small examples before measuring the procedure on larger collections."
+  },
+  {
+    "id": 7,
+    "title": "Apple Application",
+    "text": "An apple orchard application helps a farmer record daily harvest totals. The app design uses clear buttons for entering quantities. A simple screen lets workers review recent entries before saving their records."
+  },
+  {
+    "id": 8,
+    "title": "App Development",
+    "text": "An app requires careful design before implementation begins. Developers divide the application into small components, then review each piece of code. Clear interfaces make the finished product easier to maintain over time."
+  },
+  {
+    "id": 9,
+    "title": "Apply Logic",
+    "text": "Developers apply logic when deciding how an application should respond to input. Each condition selects an appropriate action. Reviewing the code with several examples helps reveal unexpected behavior before release."
+  },
+  {
+    "id": 10,
+    "title": "Applied Statistics",
+    "text": "Applied statistics helps researchers explain patterns in measured data. A model summarizes the observations using a few useful quantities. Researchers inspect unusual values before drawing conclusions from the sample."
+  },
+  {
+    "id": 11,
+    "title": "Database Storage",
+    "text": "A database keeps related data in an organized collection. An index provides a direct route to selected records. Reliable storage protects saved information when the program closes or the machine restarts."
+  },
+  {
+    "id": 12,
+    "title": "Distributed Database",
+    "text": "A distributed database places records across several machines. Each machine communicates through a network to coordinate updates. Replicated storage helps preserve access when one machine becomes temporarily unavailable."
+  },
+  {
+    "id": 13,
+    "title": "Trie Search",
+    "text": "A trie stores words along labeled branches. A search follows the characters of a requested word from the root. Shared prefix characters reuse branches, while an index reference identifies the matching records."
+  },
+  {
+    "id": 14,
+    "title": "Compressed Trie",
+    "text": "A compressed trie combines a chain of single child branches into one labeled edge. Words with a common prefix still share structure. Each complete indexed word keeps an index reference for retrieving its records."
+  },
+  {
+    "id": 15,
+    "title": "Hash Search",
+    "text": "A hash table maps a key to a bucket for quick lookup. A search index can use this arrangement to locate a record. Collisions require extra checks when different keys reach the same bucket."
+  },
+  {
+    "id": 16,
+    "title": "Machine Learning",
+    "text": "Machine learning uses examples to discover useful patterns. A model is fitted to training data before its predictions are evaluated on separate observations. Reliable evaluation checks whether the predictions remain useful beyond the original examples."
+  },
+  {
+    "id": 17,
+    "title": "Neural Learning",
+    "text": "Neural learning adjusts the connections inside a layered model. During training, predicted values are compared with expected values. Repeated updates reduce errors, while separate evaluation examples help reveal poor generalization."
+  },
+  {
+    "id": 18,
+    "title": "Cloud Computing",
+    "text": "Cloud computing provides remote machines for running programs. A network connects users to shared compute resources. Persistent storage keeps saved files available after an individual session finishes."
+  },
+  {
+    "id": 19,
+    "title": "Security Systems",
+    "text": "A security system protects information exchanged across a network. Encryption prevents an unauthorized reader from understanding a message. Developers also review code to reduce mistakes that could expose private records."
+  },
+  {
+    "id": 20,
+    "title": "Recommendation",
+    "text": "A recommendation service suggests items based on previous activity. Learning methods estimate which choices may be useful to a visitor. A search interface can combine those estimates with a ranking of relevant items."
+  },
+  {
+    "id": 21,
+    "title": "Research Note 021: Algorithm Fundamentals",
+    "text": "An algorithm gives precise steps for solving a problem. Students organize data before a search, then use complexity analysis to estimate how much work the procedure requires as the collection grows.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 22,
+    "title": "Research Note 022: Graph Data",
+    "text": "A graph represents relationships between connected objects. Each vertex stores data, while each edge describes a link in a network. A traversal visits reachable vertices in a controlled order.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 23,
+    "title": "Research Note 023: Graph Algorithms",
+    "text": "A graph algorithm can find a path between two locations. During a search, the procedure tracks visited vertices to avoid unnecessary work. This technique helps a navigation tool explore connected roads.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 24,
+    "title": "Research Note 024: Search Index",
+    "text": "A search index connects each keyword to the records that contain it. An algorithm prepares the index from data so later requests can retrieve matching records without reading the entire collection again.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 25,
+    "title": "Research Note 025: Graph Search",
+    "text": "A graph search explores connected vertices to discover a path. Breadth first traversal examines nearby vertices before moving farther away. A visited collection prevents the procedure from processing the same location repeatedly.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 26,
+    "title": "Research Note 026: Data Algorithms",
+    "text": "A sorting algorithm arranges data in a predictable order. A later search can use that order to reduce unnecessary comparisons. Students compare small examples before measuring the procedure on larger collections.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 27,
+    "title": "Research Note 027: Apple Application",
+    "text": "An apple orchard application helps a farmer record daily harvest totals. The app design uses clear buttons for entering quantities. A simple screen lets workers review recent entries before saving their records.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 28,
+    "title": "Research Note 028: App Development",
+    "text": "An app requires careful design before implementation begins. Developers divide the application into small components, then review each piece of code. Clear interfaces make the finished product easier to maintain over time.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 29,
+    "title": "Research Note 029: Apply Logic",
+    "text": "Developers apply logic when deciding how an application should respond to input. Each condition selects an appropriate action. Reviewing the code with several examples helps reveal unexpected behavior before release.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 30,
+    "title": "Research Note 030: Applied Statistics",
+    "text": "Applied statistics helps researchers explain patterns in measured data. A model summarizes the observations using a few useful quantities. Researchers inspect unusual values before drawing conclusions from the sample.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 31,
+    "title": "Research Note 031: Database Storage",
+    "text": "A database keeps related data in an organized collection. An index provides a direct route to selected records. Reliable storage protects saved information when the program closes or the machine restarts.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 32,
+    "title": "Research Note 032: Distributed Database",
+    "text": "A distributed database places records across several machines. Each machine communicates through a network to coordinate updates. Replicated storage helps preserve access when one machine becomes temporarily unavailable.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 33,
+    "title": "Research Note 033: Trie Search",
+    "text": "A trie stores words along labeled branches. A search follows the characters of a requested word from the root. Shared prefix characters reuse branches, while an index reference identifies the matching records.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 34,
+    "title": "Research Note 034: Compressed Trie",
+    "text": "A compressed trie combines a chain of single child branches into one labeled edge. Words with a common prefix still share structure. Each complete indexed word keeps an index reference for retrieving its records.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 35,
+    "title": "Research Note 035: Hash Search",
+    "text": "A hash table maps a key to a bucket for quick lookup. A search index can use this arrangement to locate a record. Collisions require extra checks when different keys reach the same bucket.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 36,
+    "title": "Research Note 036: Machine Learning",
+    "text": "Machine learning uses examples to discover useful patterns. A model is fitted to training data before its predictions are evaluated on separate observations. Reliable evaluation checks whether the predictions remain useful beyond the original examples.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 37,
+    "title": "Research Note 037: Neural Learning",
+    "text": "Neural learning adjusts the connections inside a layered model. During training, predicted values are compared with expected values. Repeated updates reduce errors, while separate evaluation examples help reveal poor generalization.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 38,
+    "title": "Research Note 038: Cloud Computing",
+    "text": "Cloud computing provides remote machines for running programs. A network connects users to shared compute resources. Persistent storage keeps saved files available after an individual session finishes.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 39,
+    "title": "Research Note 039: Security Systems",
+    "text": "A security system protects information exchanged across a network. Encryption prevents an unauthorized reader from understanding a message. Developers also review code to reduce mistakes that could expose private records.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 40,
+    "title": "Research Note 040: Recommendation",
+    "text": "A recommendation service suggests items based on previous activity. Learning methods estimate which choices may be useful to a visitor. A search interface can combine those estimates with a ranking of relevant items.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 41,
+    "title": "Research Note 041: Algorithm Fundamentals",
+    "text": "An algorithm gives precise steps for solving a problem. Students organize data before a search, then use complexity analysis to estimate how much work the procedure requires as the collection grows.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 42,
+    "title": "Research Note 042: Graph Data",
+    "text": "A graph represents relationships between connected objects. Each vertex stores data, while each edge describes a link in a network. A traversal visits reachable vertices in a controlled order.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 43,
+    "title": "Research Note 043: Graph Algorithms",
+    "text": "A graph algorithm can find a path between two locations. During a search, the procedure tracks visited vertices to avoid unnecessary work. This technique helps a navigation tool explore connected roads.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 44,
+    "title": "Research Note 044: Search Index",
+    "text": "A search index connects each keyword to the records that contain it. An algorithm prepares the index from data so later requests can retrieve matching records without reading the entire collection again.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 45,
+    "title": "Research Note 045: Graph Search",
+    "text": "A graph search explores connected vertices to discover a path. Breadth first traversal examines nearby vertices before moving farther away. A visited collection prevents the procedure from processing the same location repeatedly.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 46,
+    "title": "Research Note 046: Data Algorithms",
+    "text": "A sorting algorithm arranges data in a predictable order. A later search can use that order to reduce unnecessary comparisons. Students compare small examples before measuring the procedure on larger collections.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 47,
+    "title": "Research Note 047: Apple Application",
+    "text": "An apple orchard application helps a farmer record daily harvest totals. The app design uses clear buttons for entering quantities. A simple screen lets workers review recent entries before saving their records.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 48,
+    "title": "Research Note 048: App Development",
+    "text": "An app requires careful design before implementation begins. Developers divide the application into small components, then review each piece of code. Clear interfaces make the finished product easier to maintain over time.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 49,
+    "title": "Research Note 049: Apply Logic",
+    "text": "Developers apply logic when deciding how an application should respond to input. Each condition selects an appropriate action. Reviewing the code with several examples helps reveal unexpected behavior before release.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 50,
+    "title": "Research Note 050: Applied Statistics",
+    "text": "Applied statistics helps researchers explain patterns in measured data. A model summarizes the observations using a few useful quantities. Researchers inspect unusual values before drawing conclusions from the sample.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 51,
+    "title": "Research Note 051: Database Storage",
+    "text": "A database keeps related data in an organized collection. An index provides a direct route to selected records. Reliable storage protects saved information when the program closes or the machine restarts.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 52,
+    "title": "Research Note 052: Distributed Database",
+    "text": "A distributed database places records across several machines. Each machine communicates through a network to coordinate updates. Replicated storage helps preserve access when one machine becomes temporarily unavailable.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 53,
+    "title": "Research Note 053: Trie Search",
+    "text": "A trie stores words along labeled branches. A search follows the characters of a requested word from the root. Shared prefix characters reuse branches, while an index reference identifies the matching records.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 54,
+    "title": "Research Note 054: Compressed Trie",
+    "text": "A compressed trie combines a chain of single child branches into one labeled edge. Words with a common prefix still share structure. Each complete indexed word keeps an index reference for retrieving its records.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 55,
+    "title": "Research Note 055: Hash Search",
+    "text": "A hash table maps a key to a bucket for quick lookup. A search index can use this arrangement to locate a record. Collisions require extra checks when different keys reach the same bucket.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 56,
+    "title": "Research Note 056: Machine Learning",
+    "text": "Machine learning uses examples to discover useful patterns. A model is fitted to training data before its predictions are evaluated on separate observations. Reliable evaluation checks whether the predictions remain useful beyond the original examples.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 57,
+    "title": "Research Note 057: Neural Learning",
+    "text": "Neural learning adjusts the connections inside a layered model. During training, predicted values are compared with expected values. Repeated updates reduce errors, while separate evaluation examples help reveal poor generalization.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 58,
+    "title": "Research Note 058: Cloud Computing",
+    "text": "Cloud computing provides remote machines for running programs. A network connects users to shared compute resources. Persistent storage keeps saved files available after an individual session finishes.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 59,
+    "title": "Research Note 059: Security Systems",
+    "text": "A security system protects information exchanged across a network. Encryption prevents an unauthorized reader from understanding a message. Developers also review code to reduce mistakes that could expose private records.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 60,
+    "title": "Research Note 060: Recommendation",
+    "text": "A recommendation service suggests items based on previous activity. Learning methods estimate which choices may be useful to a visitor. A search interface can combine those estimates with a ranking of relevant items.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 61,
+    "title": "Research Note 061: Algorithm Fundamentals",
+    "text": "An algorithm gives precise steps for solving a problem. Students organize data before a search, then use complexity analysis to estimate how much work the procedure requires as the collection grows.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 62,
+    "title": "Research Note 062: Graph Data",
+    "text": "A graph represents relationships between connected objects. Each vertex stores data, while each edge describes a link in a network. A traversal visits reachable vertices in a controlled order.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 63,
+    "title": "Research Note 063: Graph Algorithms",
+    "text": "A graph algorithm can find a path between two locations. During a search, the procedure tracks visited vertices to avoid unnecessary work. This technique helps a navigation tool explore connected roads.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 64,
+    "title": "Research Note 064: Search Index",
+    "text": "A search index connects each keyword to the records that contain it. An algorithm prepares the index from data so later requests can retrieve matching records without reading the entire collection again.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 65,
+    "title": "Research Note 065: Graph Search",
+    "text": "A graph search explores connected vertices to discover a path. Breadth first traversal examines nearby vertices before moving farther away. A visited collection prevents the procedure from processing the same location repeatedly.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 66,
+    "title": "Research Note 066: Data Algorithms",
+    "text": "A sorting algorithm arranges data in a predictable order. A later search can use that order to reduce unnecessary comparisons. Students compare small examples before measuring the procedure on larger collections.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 67,
+    "title": "Research Note 067: Apple Application",
+    "text": "An apple orchard application helps a farmer record daily harvest totals. The app design uses clear buttons for entering quantities. A simple screen lets workers review recent entries before saving their records.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 68,
+    "title": "Research Note 068: App Development",
+    "text": "An app requires careful design before implementation begins. Developers divide the application into small components, then review each piece of code. Clear interfaces make the finished product easier to maintain over time.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 69,
+    "title": "Research Note 069: Apply Logic",
+    "text": "Developers apply logic when deciding how an application should respond to input. Each condition selects an appropriate action. Reviewing the code with several examples helps reveal unexpected behavior before release.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 70,
+    "title": "Research Note 070: Applied Statistics",
+    "text": "Applied statistics helps researchers explain patterns in measured data. A model summarizes the observations using a few useful quantities. Researchers inspect unusual values before drawing conclusions from the sample.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 71,
+    "title": "Research Note 071: Database Storage",
+    "text": "A database keeps related data in an organized collection. An index provides a direct route to selected records. Reliable storage protects saved information when the program closes or the machine restarts.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 72,
+    "title": "Research Note 072: Distributed Database",
+    "text": "A distributed database places records across several machines. Each machine communicates through a network to coordinate updates. Replicated storage helps preserve access when one machine becomes temporarily unavailable.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 73,
+    "title": "Research Note 073: Trie Search",
+    "text": "A trie stores words along labeled branches. A search follows the characters of a requested word from the root. Shared prefix characters reuse branches, while an index reference identifies the matching records.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 74,
+    "title": "Research Note 074: Compressed Trie",
+    "text": "A compressed trie combines a chain of single child branches into one labeled edge. Words with a common prefix still share structure. Each complete indexed word keeps an index reference for retrieving its records.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 75,
+    "title": "Research Note 075: Hash Search",
+    "text": "A hash table maps a key to a bucket for quick lookup. A search index can use this arrangement to locate a record. Collisions require extra checks when different keys reach the same bucket.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 76,
+    "title": "Research Note 076: Machine Learning",
+    "text": "Machine learning uses examples to discover useful patterns. A model is fitted to training data before its predictions are evaluated on separate observations. Reliable evaluation checks whether the predictions remain useful beyond the original examples.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 77,
+    "title": "Research Note 077: Neural Learning",
+    "text": "Neural learning adjusts the connections inside a layered model. During training, predicted values are compared with expected values. Repeated updates reduce errors, while separate evaluation examples help reveal poor generalization.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 78,
+    "title": "Research Note 078: Cloud Computing",
+    "text": "Cloud computing provides remote machines for running programs. A network connects users to shared compute resources. Persistent storage keeps saved files available after an individual session finishes.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 79,
+    "title": "Research Note 079: Security Systems",
+    "text": "A security system protects information exchanged across a network. Encryption prevents an unauthorized reader from understanding a message. Developers also review code to reduce mistakes that could expose private records.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 80,
+    "title": "Research Note 080: Recommendation",
+    "text": "A recommendation service suggests items based on previous activity. Learning methods estimate which choices may be useful to a visitor. A search interface can combine those estimates with a ranking of relevant items.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 81,
+    "title": "Research Note 081: Algorithm Fundamentals",
+    "text": "An algorithm gives precise steps for solving a problem. Students organize data before a search, then use complexity analysis to estimate how much work the procedure requires as the collection grows.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 82,
+    "title": "Research Note 082: Graph Data",
+    "text": "A graph represents relationships between connected objects. Each vertex stores data, while each edge describes a link in a network. A traversal visits reachable vertices in a controlled order.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 83,
+    "title": "Research Note 083: Graph Algorithms",
+    "text": "A graph algorithm can find a path between two locations. During a search, the procedure tracks visited vertices to avoid unnecessary work. This technique helps a navigation tool explore connected roads.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 84,
+    "title": "Research Note 084: Search Index",
+    "text": "A search index connects each keyword to the records that contain it. An algorithm prepares the index from data so later requests can retrieve matching records without reading the entire collection again.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 85,
+    "title": "Research Note 085: Graph Search",
+    "text": "A graph search explores connected vertices to discover a path. Breadth first traversal examines nearby vertices before moving farther away. A visited collection prevents the procedure from processing the same location repeatedly.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 86,
+    "title": "Research Note 086: Data Algorithms",
+    "text": "A sorting algorithm arranges data in a predictable order. A later search can use that order to reduce unnecessary comparisons. Students compare small examples before measuring the procedure on larger collections.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 87,
+    "title": "Research Note 087: Apple Application",
+    "text": "An apple orchard application helps a farmer record daily harvest totals. The app design uses clear buttons for entering quantities. A simple screen lets workers review recent entries before saving their records.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 88,
+    "title": "Research Note 088: App Development",
+    "text": "An app requires careful design before implementation begins. Developers divide the application into small components, then review each piece of code. Clear interfaces make the finished product easier to maintain over time.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 89,
+    "title": "Research Note 089: Apply Logic",
+    "text": "Developers apply logic when deciding how an application should respond to input. Each condition selects an appropriate action. Reviewing the code with several examples helps reveal unexpected behavior before release.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 90,
+    "title": "Research Note 090: Applied Statistics",
+    "text": "Applied statistics helps researchers explain patterns in measured data. A model summarizes the observations using a few useful quantities. Researchers inspect unusual values before drawing conclusions from the sample.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 91,
+    "title": "Research Note 091: Database Storage",
+    "text": "A database keeps related data in an organized collection. An index provides a direct route to selected records. Reliable storage protects saved information when the program closes or the machine restarts.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 92,
+    "title": "Research Note 092: Distributed Database",
+    "text": "A distributed database places records across several machines. Each machine communicates through a network to coordinate updates. Replicated storage helps preserve access when one machine becomes temporarily unavailable.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 93,
+    "title": "Research Note 093: Trie Search",
+    "text": "A trie stores words along labeled branches. A search follows the characters of a requested word from the root. Shared prefix characters reuse branches, while an index reference identifies the matching records.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 94,
+    "title": "Research Note 094: Compressed Trie",
+    "text": "A compressed trie combines a chain of single child branches into one labeled edge. Words with a common prefix still share structure. Each complete indexed word keeps an index reference for retrieving its records.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 95,
+    "title": "Research Note 095: Hash Search",
+    "text": "A hash table maps a key to a bucket for quick lookup. A search index can use this arrangement to locate a record. Collisions require extra checks when different keys reach the same bucket.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 96,
+    "title": "Research Note 096: Machine Learning",
+    "text": "Machine learning uses examples to discover useful patterns. A model is fitted to training data before its predictions are evaluated on separate observations. Reliable evaluation checks whether the predictions remain useful beyond the original examples.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 97,
+    "title": "Research Note 097: Neural Learning",
+    "text": "Neural learning adjusts the connections inside a layered model. During training, predicted values are compared with expected values. Repeated updates reduce errors, while separate evaluation examples help reveal poor generalization.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 98,
+    "title": "Research Note 098: Cloud Computing",
+    "text": "Cloud computing provides remote machines for running programs. A network connects users to shared compute resources. Persistent storage keeps saved files available after an individual session finishes.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 99,
+    "title": "Research Note 099: Security Systems",
+    "text": "A security system protects information exchanged across a network. Encryption prevents an unauthorized reader from understanding a message. Developers also review code to reduce mistakes that could expose private records.\nThis extended example supports repeated performance measurements with a larger collection."
+  },
+  {
+    "id": 100,
+    "title": "Research Note 100: Recommendation",
+    "text": "A recommendation service suggests items based on previous activity. Learning methods estimate which choices may be useful to a visitor. A search interface can combine those estimates with a ranking of relevant items.\nThis extended example supports repeated performance measurements with a larger collection."
+  }
+]

@@ -1,0 +1,4 @@
+ID: 2
+Title: Graph Data
+
+A graph represents relationships between connected objects. Each vertex stores data, while each edge describes a link in a network. A traversal visits reachable vertices in a controlled order.

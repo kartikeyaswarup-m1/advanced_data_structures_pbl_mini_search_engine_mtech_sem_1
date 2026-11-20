@@ -1,0 +1,4 @@
+ID: 16
+Title: Machine Learning
+
+Machine learning uses examples to discover useful patterns. A model is fitted to training data before its predictions are evaluated on separate observations. Reliable evaluation checks whether the predictions remain useful beyond the original examples.

@@ -1,0 +1,4 @@
+ID: 9
+Title: Apply Logic
+
+Developers apply logic when deciding how an application should respond to input. Each condition selects an appropriate action. Reviewing the code with several examples helps reveal unexpected behavior before release.
