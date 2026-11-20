@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="410" viewBox="0 0 740 410">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font:14px sans-serif;fill:#172554}</style>
+<text x="30" y="28" font-size="18">Single keyword search (microseconds)</text>
+<line x1="65" y1="345" x2="700" y2="345" stroke="#334155"/>
+<line x1="65" y1="55" x2="65" y2="345" stroke="#334155"/>
+<rect x="120" y="113.2" width="70" height="231.8" fill="#2563eb"/>
+<text x="155" y="103.2" text-anchor="middle">1.10</text>
+<text x="155" y="370" text-anchor="middle">10 docs</text>
+<rect x="265" y="112.7" width="70" height="232.3" fill="#2563eb"/>
+<text x="300" y="102.7" text-anchor="middle">1.10</text>
+<text x="300" y="370" text-anchor="middle">25 docs</text>
+<rect x="410" y="109.5" width="70" height="235.5" fill="#2563eb"/>
+<text x="445" y="99.5" text-anchor="middle">1.11</text>
+<text x="445" y="370" text-anchor="middle">50 docs</text>
+<rect x="555" y="107.7" width="70" height="237.3" fill="#2563eb"/>
+<text x="590" y="97.7" text-anchor="middle">1.12</text>
+<text x="590" y="370" text-anchor="middle">100 docs</text>
+</svg>

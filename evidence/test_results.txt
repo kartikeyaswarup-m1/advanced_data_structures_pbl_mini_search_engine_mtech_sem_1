@@ -1,0 +1,16 @@
+test_all_corpora_against_document_scan (test_search_engine.SearchTests.test_all_corpora_against_document_scan) ... ok
+test_cli_reads_text_files_without_json (test_search_engine.SearchTests.test_cli_reads_text_files_without_json) ... ok
+test_edge_cases_and_result_isolation (test_search_engine.SearchTests.test_edge_cases_and_result_isolation) ... ok
+test_interactive_eof (test_search_engine.SearchTests.test_interactive_eof) ... ok
+test_interactive_repeated_words_and_operator (test_search_engine.SearchTests.test_interactive_repeated_words_and_operator) ... ok
+test_intersection_against_sets (test_search_engine.SearchTests.test_intersection_against_sets) ... ok
+test_loader_numeric_order_and_multiline_body (test_search_engine.SearchTests.test_loader_numeric_order_and_multiline_body) ... ok
+test_loader_rejects_invalid_files (test_search_engine.SearchTests.test_loader_rejects_invalid_files) ... ok
+test_prefix_insertion_orders_and_overwrite (test_search_engine.SearchTests.test_prefix_insertion_orders_and_overwrite) ... ok
+test_randomized_radix_invariants (test_search_engine.SearchTests.test_randomized_radix_invariants) ... ok
+test_text_corpus_metadata_and_paragraphs (test_search_engine.SearchTests.test_text_corpus_metadata_and_paragraphs) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.217s
+
+OK

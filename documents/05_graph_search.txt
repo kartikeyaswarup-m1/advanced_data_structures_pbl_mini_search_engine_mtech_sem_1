@@ -1,0 +1,4 @@
+ID: 5
+Title: Graph Search
+
+A graph search explores connected vertices to discover a path. Breadth first traversal examines nearby vertices before moving farther away. A visited collection prevents the procedure from processing the same location repeatedly.

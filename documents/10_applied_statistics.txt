@@ -1,0 +1,4 @@
+ID: 10
+Title: Applied Statistics
+
+Applied statistics helps researchers explain patterns in measured data. A model summarizes the observations using a few useful quantities. Researchers inspect unusual values before drawing conclusions from the sample.

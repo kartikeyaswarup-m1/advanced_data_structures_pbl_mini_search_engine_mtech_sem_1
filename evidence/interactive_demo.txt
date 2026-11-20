@@ -1,0 +1,11 @@
+Inputs, in order: ["graph", "graph graph", "data AND algorithm", "graph search path", "graph apple", "unicorn", "!!!", ""]
+
+Mini Search Engine: 20 documents. Enter words separated by spaces or AND; blank line exits.
+search> [(2, 'Graph Data'), (3, 'Graph Algorithms'), (5, 'Graph Search')]
+search> [(2, 'Graph Data'), (3, 'Graph Algorithms'), (5, 'Graph Search')]
+search> [(1, 'Algorithm Fundamentals'), (4, 'Search Index'), (6, 'Data Algorithms')]
+search> [(3, 'Graph Algorithms'), (5, 'Graph Search')]
+search> No matches
+search> No matches
+search> No matches
+search> 

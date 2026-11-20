@@ -1,0 +1,4 @@
+ID: 3
+Title: Graph Algorithms
+
+A graph algorithm can find a path between two locations. During a search, the procedure tracks visited vertices to avoid unnecessary work. This technique helps a navigation tool explore connected roads.

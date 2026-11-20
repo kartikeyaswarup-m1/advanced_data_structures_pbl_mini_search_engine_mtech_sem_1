@@ -1,0 +1,4 @@
+ID: 17
+Title: Neural Learning
+
+Neural learning adjusts the connections inside a layered model. During training, predicted values are compared with expected values. Repeated updates reduce errors, while separate evaluation examples help reveal poor generalization.

@@ -1,0 +1,4 @@
+ID: 18
+Title: Cloud Computing
+
+Cloud computing provides remote machines for running programs. A network connects users to shared compute resources. Persistent storage keeps saved files available after an individual session finishes.
